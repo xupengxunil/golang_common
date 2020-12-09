@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/e421083458/golang_common/lib"
+	"github.com/xupengxunil/golang_common/lib"
 	"log"
 	"time"
 )

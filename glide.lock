@@ -1,7 +1,7 @@
 hash: ad1a02bd8ebf6c48829ee34b982237197a110fa1f79639463d48ad4c287c3323
 updated: 2019-06-07T17:17:20.528836299+08:00
 imports:
-- name: github.com/e421083458/gorm
+- name: github.com/xupengxunil/gorm
   version: 6f023d60d24b1dc2f9095ebe156ca6ddcadb5aa9
   subpackages:
   - dialects/mysql
